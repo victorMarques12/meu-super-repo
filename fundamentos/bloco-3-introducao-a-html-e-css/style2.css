@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
@@ -42,4 +47,12 @@ color: #475550;
     border-radius: 10px;
     text-decoration: none;
     font-weight: 700;
+}
+
+#header {
+
+    background-image: url(https://thumbs.dreamstime.com/b/homem-negro-bonito-sorrindo-sobre-fundo-azul-em-roupas-tradicionais-africanas-o-do-est%C3%BAdio-colocando-m%C3%A3os-nos-bolsos-e-copiando-201546905.jpg);
+    background-size: cover;
+    background-position: 50% 5%;
+    padding: 60px 30px 40px;
 }

@@ -1,0 +1,29 @@
+  body {
+    font-size: 20px;
+  }
+
+
+  h1 {
+    font-size: 2em;
+    font-family: sans-serif;
+    color: rgb(16, 9, 28);
+  }
+  ul {
+    background-color: aquamarine;
+    color: black;
+  }
+  #vic {
+    color: rgb(53, 54, 52);
+  }
+  p {
+    font-family: cursive;
+    text-align: center;
+    top: 320px;
+  }
+  .lista {
+    font-weight: bold;
+    font-style: italic;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: underline;
+  }

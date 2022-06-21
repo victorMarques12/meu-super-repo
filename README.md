@@ -1,4 +1,0 @@
-# trybe-exercicio
-
-## 
-..

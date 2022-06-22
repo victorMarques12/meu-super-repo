@@ -1,5 +1,3 @@
-let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
-
-menu.push("contato");
-
-console.log(menu);
+const jogos = ['Doom', 'Skyrim', 'Final Fantasy'];
+jogos[0] = 'Warcraft III';
+console.log(jogos);

@@ -1,8 +1,7 @@
-let weeDay = "quarta-feira";
+let weeDay = "segunda-feira";
 
-if(weeDay = "segunda-feira" || "terça-feira" || "quarta-feira" || "quinta-feira" || "sexta-feira") {
+if(weeDay === "segunda-feira" || weeDay === "terça-feira" || weeDay === "quarta-feira" ||weeDay === "quinta-feira" || weeDay ==="sexta-feira") {
 console.log( "Oba, mais um dia de aprendizado na Trybe >:D")
-}
-if(weeDay = "sabado"){
+} else {
 console.log("FINALMENTE, descanso merecido UwU")
 }
